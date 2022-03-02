@@ -16,25 +16,30 @@ Bosseman Okoye and Nworie Kingsley delivers the content in this module.
 ### Bosseman Okoye:  
 <img src="https://user-images.githubusercontent.com/55883854/153741905-942478cc-b7a4-451e-987f-f5751d46056a.jpg" title="Bosseman Okoye" width="150"></img>
 
-Bianca is our former Senior Manager on GitHub’s Social Impact team where she was spending most of her time overseeing the company’s local engagement initiatives and advocating for accessibility, inclusion and diversity across multiple sectors of the company. Her intersectional lens paired with her experience in tech has broadened her expertise on how to create and foster diverse and inclusive environments both online and in the real world. Prior to joining GitHub in 2015, she spent 18 years working in the nonprofit sector, mostly with organizations that provided educational opportunities for Black and Latino youth in STEM-related fields.
+Bosseman is Graphics designer and the CEO at Bosseman studios. He has over 3years of experience working as a graphics designer creating captivation visuals for videos and print.
 
 ### Nworie Kingsley:  
 <img src="https://user-images.githubusercontent.com/55883854/153741632-f3ec9538-fdba-4737-ab1e-d95106986d1c.jpg" href="https://github.com/nworiekingslee" title="Nworie Kingsley" width="150"></img>
 
-Bianca is our former Senior Manager on GitHub’s Social Impact team where she was spending most of her time overseeing the company’s local engagement initiatives and advocating for accessibility, inclusion and diversity across multiple sectors of the company. Her intersectional lens paired with her experience in tech has broadened her expertise on how to create and foster diverse and inclusive environments both online and in the real world. Prior to joining GitHub in 2015, she spent 18 years working in the nonprofit sector, mostly with organizations that provided educational opportunities for Black and Latino youth in STEM-related fields.
+Kingsley is a GitHub Campus Expert, an I4G (Ingressive for Good) Co-lead ambassador at UNIZIK and also a freelance Brand Identity Designer. He has helped dozens of businesses build credibility and brand recognition by creating consistent visual language that represents them and connects with their audience. He has been freelancing for 4years and within this time he has worked with clients from within and outside Nigeria.
 
-## Video 📹
+## Learning materials 📹
 
 [Watch the video on YouTube](https://www.youtube.com/watch?v=dKS7c9LiCWE&list=PLIRjfNq867bcqbF_DVi7iTDnc8JoWNPVT&index=2)
 
 ## Exercise 📝
 
-The exercise in this module is to analyse your community and activities for ways in which they may not be inclusive. 
+The exercise in this module is to create a profile card of yourself containing your full name, role, a short bio & the BUILD logo alongside the logo of the Bootcamp sponsors. 
+
+## How to Submit
+
+Export your Figma design in JPEG format. Send the design to binaview@gmail.com with "**GRAPHICS DESIGN WEEK1 EXERCISE SUBMISSION-`<Your Full Name>`**" as the email title. This exercise has to be submitted before the next physical meet up. Good luck.
+
 
 ## Module Completion ✅
 
 This module is complete when:
--   You have completed an inclusion analysis.
+-   You have completed your profile card design.
 -   You have followed the instructions to submit.
--   A reviewer merges your pull request.
+-   A reviewer approves your submission.
 
