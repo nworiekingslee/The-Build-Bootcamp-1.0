@@ -16,7 +16,7 @@ Bosseman Okoye and Nworie Kingsley delivers the content in this module.
 ### Bosseman Okoye:  
 <img src="https://user-images.githubusercontent.com/55883854/153741905-942478cc-b7a4-451e-987f-f5751d46056a.jpg" title="Bosseman Okoye" width="150"></img>
 
-Bosseman is Graphics designer and the CEO at Bosseman studios. He has over 3years of experience working as a graphics designer creating captivation visuals for videos and print.
+Bosseman is a Motion Graphics and still Graphics designer and the CEO at Bosseman studios. He has over 5years professional experience working as a graphics designer creating captivation visuals for videos and print.
 
 ### Nworie Kingsley:  
 <img src="https://user-images.githubusercontent.com/55883854/153741632-f3ec9538-fdba-4737-ab1e-d95106986d1c.jpg" href="https://github.com/nworiekingslee" title="Nworie Kingsley" width="150"></img>
@@ -25,7 +25,7 @@ Kingsley is a GitHub Campus Expert, an I4G (Ingressive for Good) Co-lead ambassa
 
 ## Learning materials 📹
 
-[Watch the video on YouTube](https://www.youtube.com/watch?v=dKS7c9LiCWE&list=PLIRjfNq867bcqbF_DVi7iTDnc8JoWNPVT&index=2)
+[Watch the video on YouTube](https://youtu.be/YWvZcA7DcUU)
 
 ## Exercise 📝
 
@@ -33,7 +33,7 @@ The exercise in this module is to create a profile card of yourself containing y
 
 ## How to Submit
 
-Export your Figma design in JPEG format. Send the design to binaview@gmail.com with "**GRAPHICS DESIGN WEEK1 EXERCISE SUBMISSION-`<Your Full Name>`**" as the email title. This exercise has to be submitted before the next physical meet up. Good luck.
+Export your Figma design in JPEG format or take a screenshot. Send the design to Thankgodokoye1@gmail.com with "**GRAPHICS DESIGN WEEK1 EXERCISE SUBMISSION-`<Your Full Name>`**" as the email title. This exercise has to be submitted before the next physical meet up. Good luck.
 
 
 ## Module Completion ✅
