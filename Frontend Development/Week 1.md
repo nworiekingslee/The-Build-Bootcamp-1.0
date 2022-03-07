@@ -21,7 +21,13 @@ Ndukwe Fredrick A.K.A the Gamemaster, he has re-invented how tech communities ar
 
 ## Learning materials 📹
 
-[Watch the video on YouTube](https://youtu.be/ADh8jtsbrqA)
+- [Introduction to the Frontend Course](https://youtu.be/ADh8jtsbrqA)
+- [Setting Up Your Workspace](https://youtu.be/Xelpc_MJXuo)
+- [Installing a code editor PART 1](https://youtu.be/WzJPYpVrQ4A)
+- [Installing a code editor PART 2](https://youtu.be/zBtx3fv4WCw)
+- [Html Fundamentals](https://youtu.be/V71uk9GUqzc)
+- [Chrome Dev Tools](https://youtu.be/B8qZDtjC_Nw)
+- [Frontend Development Conclusion](https://youtu.be/KFZtTvR2bL0)
 
 ## Exercise 📝
 
