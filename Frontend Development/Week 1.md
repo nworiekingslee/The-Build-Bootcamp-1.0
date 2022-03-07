@@ -27,7 +27,7 @@ Ndukwe Fredrick A.K.A the Gamemaster, he has re-invented how tech communities ar
 - [Installing a code editor PART 2](https://youtu.be/zBtx3fv4WCw)
 - [Html Fundamentals](https://youtu.be/V71uk9GUqzc)
 - [Chrome Dev Tools](https://youtu.be/B8qZDtjC_Nw)
-- [Frontend Development Conclusion](https://youtu.be/KFZtTvR2bL0)
+- [Module Conclusion](https://youtu.be/KFZtTvR2bL0)
 
 ## Exercise 📝
 
