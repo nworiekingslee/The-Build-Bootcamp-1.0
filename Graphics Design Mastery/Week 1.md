@@ -19,7 +19,7 @@ Bosseman Okoye and Nworie Kingsley delivers the content in this module.
 Bosseman is a Motion Graphics and still Graphics designer and the CEO at Bosseman studios. He has over 5years professional experience working as a graphics designer creating captivation visuals for videos and print.
 
 ### Nworie Kingsley:  
-<img src="https://user-images.githubusercontent.com/55883854/153741632-f3ec9538-fdba-4737-ab1e-d95106986d1c.jpg" href="https://github.com/nworiekingslee" title="Nworie Kingsley" width="150"></img>
+<img src="https://avatars.githubusercontent.com/u/55883854?v=4" href="https://github.com/nworiekingslee" title="Nworie Kingsley" width="150"></img>
 
 Kingsley is a GitHub Campus Expert, an I4G (Ingressive for Good) Co-lead ambassador at UNIZIK and also a freelance Brand Identity Designer. He has helped dozens of businesses build credibility and brand recognition by creating consistent visual language that represents them and connects with their audience. He has been freelancing for 4years and within this time he has worked with clients from within and outside Nigeria.
 
