@@ -17,7 +17,7 @@ Ndukwe Fredrick delivers the content in this module.
 ### Ndukwe Fredrick:  
 <img src="https://user-images.githubusercontent.com/55883854/157105822-09df4e3c-b8aa-409e-b5c7-24c95a193c5a.png" href="https://github.com/nworiekingslee" title="Nworie Kingsley" width="150"></img>
 
-Ndukwe Fredrick A.K.A the Gamemaster, he has re-invented how tech communities are managed here on Campus by introducing series of diverse games the can help students learn while catching some fun. He is a 400level Electronics and Computer Engineering student, and a growing frontend developer. There's no better teacher than a learner because he can easily put himself in the shoe of begineers and explain the way they would understand.
+Ndukwe Fredrick A.K.A the Gamemaster, he has re-invented how tech communities are managed here on Campus by introducing series of diverse games that can help students learn while catching some fun. He is a 400level Electronics and Computer Engineering student, and a growing frontend developer. There's no better teacher than a learner because he can easily put himself in the shoe of begineers and explain the way they would understand.
 
 ## Learning materials 📹
 
