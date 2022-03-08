@@ -25,7 +25,12 @@ Kingsley is a GitHub Campus Expert, an I4G (Ingressive for Good) Co-lead ambassa
 
 ## Learning materials 📹
 
-[Watch the video on YouTube](https://youtu.be/YWvZcA7DcUU)
+- [Introduction to Graphics design](https://youtu.be/_1mZx3P0UOk)
+- [Graphics Design Software](https://youtu.be/Mc8m7HYLJvw)
+- [Getting started on Figma](https://youtu.be/ClQidweVgG4)
+- [The Figma Tour](https://www.youtube.com/watch?v=gPHcUgxbS2M&t=0s)
+- [Introduction to design elements](https://www.youtube.com/watch?v=stD_7dhXrPM&t=0s)
+- [Assessment](https://www.youtube.com/watch?v=Zwz2lLLkDOU&t=0s)
 
 ## Exercise 📝
 
