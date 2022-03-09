@@ -28,6 +28,7 @@ Ndukwe Fredrick A.K.A the Gamemaster, he has re-invented how tech communities ar
 - [Html Fundamentals](https://youtu.be/V71uk9GUqzc)
 - [Chrome Dev Tools](https://youtu.be/B8qZDtjC_Nw)
 - [Module Conclusion](https://youtu.be/KFZtTvR2bL0)
+- [How to CC an email](https://sparkmailapp.com/blog/email-cc-bcc-meaning)
 
 ## Exercise 📝
 
@@ -36,7 +37,7 @@ Build a profile page with HTML only (no CSS). The profile page should contain a 
 
 ## How to Submit
 
-Send a screenshot of your webpage to phedr with "**GRAPHICS DESIGN WEEK1 EXERCISE SUBMISSION-`<Your Full Name>`**" as the email title. This exercise has to be submitted before the next physical meet up. Good luck.
+Send a screenshot of your webpage to phredrique007@gmail.com and cc obizzkingsley@gmail.com with "**GRAPHICS DESIGN WEEK1 EXERCISE SUBMISSION-`<Your Full Name>`**" as the email title. This exercise has to be submitted before the next physical meet up. Good luck.
 
 
 ## Module Completion ✅
