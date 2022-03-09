@@ -4,7 +4,7 @@
 
 By the end of this module, you will:
 -   Understand what it means to be a Graphics designer.
--   Activate the GitHub Student Pack.
+-   Activate the [GitHub Student Pack](https://education.github.com/discount_requests/student_application?utm_source=2022-03-05-Build%20Bootcamp).
 -   Have you settled in on Figma.
 -   Understand how to work with Design Elements
 
@@ -31,6 +31,7 @@ Kingsley is a GitHub Campus Expert, an I4G (Ingressive for Good) Co-lead ambassa
 - [The Figma Tour](https://www.youtube.com/watch?v=gPHcUgxbS2M&t=0s)
 - [Introduction to design elements](https://www.youtube.com/watch?v=stD_7dhXrPM&t=0s)
 - [Assessment](https://www.youtube.com/watch?v=Zwz2lLLkDOU&t=0s)
+- [How to CC an email](https://sparkmailapp.com/blog/email-cc-bcc-meaning)
 
 ## Exercise 📝
 
@@ -38,7 +39,7 @@ The exercise in this module is to create a profile card of yourself containing y
 
 ## How to Submit
 
-Export your Figma design in JPEG format or take a screenshot. Send the design to Thankgodokoye1@gmail.com with "**GRAPHICS DESIGN WEEK1 EXERCISE SUBMISSION-`<Your Full Name>`**" as the email title. This exercise has to be submitted before the next physical meet up. Good luck.
+Export your Figma design in JPEG format or take a screenshot. Send the design to Thankgodokoye1@gmail.com and cc obizzkingsley@gmail.com with "**GRAPHICS DESIGN WEEK1 EXERCISE SUBMISSION-`<Your Full Name>`**" as the email title. This exercise has to be submitted before the next physical meet up. Good luck.
 
 
 ## Module Completion ✅
