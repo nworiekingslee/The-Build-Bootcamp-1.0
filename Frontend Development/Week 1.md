@@ -37,7 +37,7 @@ Build a profile page with HTML only (no CSS). The profile page should contain a 
 
 ## How to Submit
 
-Send a screenshot of your webpage to phredrique007@gmail.com and cc obizzkingsley@gmail.com with "**GRAPHICS DESIGN WEEK1 EXERCISE SUBMISSION-`<Your Full Name>`**" as the email title. This exercise has to be submitted before the next physical meet up. Good luck.
+Send a screenshot of your webpage to phredrique007@gmail.com and cc obizzkingsley@gmail.com with "**FROMTEND DEVELOPMENT WEEK1 EXERCISE SUBMISSION-`<Your Full Name>`**" as the email title. This exercise has to be submitted before the next physical meet up. Good luck.
 
 
 ## Module Completion ✅
