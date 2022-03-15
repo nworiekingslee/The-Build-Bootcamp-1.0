@@ -18,7 +18,7 @@ Ouma Clifford(GitHub Campus Expert Kenya) and Chibuokem Obiegbulem delivers the 
 ### Ouma Clifford:  
 <img src="https://user-images.githubusercontent.com/55883854/158276366-cfe0984e-9a2f-4044-8833-c10f4297cd0c.jpg" href="https://github.com/nworiekingslee" title="Nworie Kingsley" width="150"></img>
 
-Clifford is a technology enthusiast with keen interest in web development and web design. He is a React Native developer who is passionate about User Experience design. He love communities and enjoys teaching and sharing what he knows with others.
+Clifford is a technology enthusiast with keen interest in web development and web design. He is a React Native developer who is passionate about User Experience design. He loves communities and enjoys teaching and sharing what he knows with others.
 
 
 ### Chibuokem Obiegbulem:  
@@ -43,7 +43,7 @@ Chibuokem is a web professionals whose primary responsibility is to deliver a ki
 ## How to Submit
 
 - `Procedures to submit the workshop exercise will be updated after the live workshop with clifford`
-- Commit and push your code to a remote repository on GitHub, deploy on Netlify. Send the link to your [login page](https://s3-alpha.figma.com/hub/file/409772554/c9cc119b-01d8-416a-8ec6-3409711df3b2-cover) and a link to your repository to Chiobiegbulem@gmail.com and cc obizzkingsley@gmail.com with "**FRONTEND DEVELOPMENT WEEK2 EXERCISE SUBMISSION-`<Your Full Name>`**" as the email title. This exercise has to be submitted before the next physical meet up(21st). Good luck.
+- Commit and push your code to a remote repository on GitHub, deploy on Netlify. Send the link for your [login page](https://s3-alpha.figma.com/hub/file/409772554/c9cc119b-01d8-416a-8ec6-3409711df3b2-cover) and a link to your repository to Chiobiegbulem@gmail.com and cc obizzkingsley@gmail.com with "**FRONTEND DEVELOPMENT WEEK2 EXERCISE SUBMISSION-`<Your Full Name>`**" as the email title. This exercise has to be submitted before the next physical meet up(21st). Good luck.
 
 
 ## Module Completion ✅
