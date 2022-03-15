@@ -33,6 +33,7 @@ Chibuokem is a web professionals whose primary responsibility is to deliver a ki
 - [Introduction to web accessibility](https://www.deque.com/web-accessibility-beginners-guide/)
 - [**The Web Accessibility Workshop with Clifford** happening live on 15th, 4PM WAT](https://youtu.be/YX86xhGGIds)
 - [1 hour of Git & GitHub basics](https://youtu.be/8JJ101D3knE)
+- [Deploy to netlify using git](https://youtu.be/4h8B080Mv4U)
 
 
 ## Exercise 📝
