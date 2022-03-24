@@ -39,6 +39,7 @@ Kingsley is a GitHub Campus Expert, an I4G (Ingressive for Good) Co-lead ambassa
 - [Desiging a Brand guideline, the workshop intro](https://youtu.be/f8Ev6j3YT-M)
 - [Desiging a Brand guideline, the workshop PART 1](https://youtu.be/dTIs7t9ycA0)
 - [Desiging a Brand guideline, the workshop PART 2](https://youtu.be/CyehkkVDmms)
+- [Portfolio Showcase](https://youtu.be/os0PZ0ydfPw)
 
 
 
