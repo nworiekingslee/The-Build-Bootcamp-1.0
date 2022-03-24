@@ -29,7 +29,7 @@ Jome is a frontend developer with years of experience, proficient in Reactjs and
 
 
 ## Exercise 📝
-- Create a simple quiz app. Attended the workshop and code with Jome Favorite. **It is important to note that your styling, CSS has to be unique**.
+- Create a simple quiz app. Attend the workshop and code with Jome Favorite. **It is important to note that your styling, CSS has to be unique**.
 
 ## How to Submit
 - Commit and push your code to a remote repository on GitHub, deploy on Netlify. Send the link for your [Quiz app]() and a link to your repository to "" and cc `obizzkingsley@gmail.com` with "**FRONTEND DEVELOPMENT FINALE EXERCISE SUBMISSION-`<Your Full Name>`**" as the email title. This exercise has to be submitted before the Demo Day(the last physical meet-up, 28th). Good luck.
