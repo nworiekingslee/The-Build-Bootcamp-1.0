@@ -5,7 +5,7 @@
 Replicate the web page displayed below in 45mins.
 
 ![Screenshot (52)](https://user-images.githubusercontent.com/55883854/160297008-1f6f544a-5636-404f-a29d-09585ef945e9.png)
-![Screenshot (54)](https://user-images.githubusercontent.com/55883854/160297010-9aa03752-131b-427c-9efe-3e9fba97197e.png)4
+![Screenshot (54)](https://user-images.githubusercontent.com/55883854/160297010-9aa03752-131b-427c-9efe-3e9fba97197e.png)
 
 ## Resources 🍎
 
